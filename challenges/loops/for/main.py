@@ -6,7 +6,7 @@ The user must guess a secret word by typing one letter at a time.
 The game reveals correct letters and counts the number of valid attempts.
 """
 #list of possible secret words
-words = ['monkey', 'tiger', 'mantis', 'viper', 'panda']
+words = ['monkey', 'tiger', 'mantis', 'viper', 'crane', 'panda']
 
 secret_word = random.choice(words)
 
