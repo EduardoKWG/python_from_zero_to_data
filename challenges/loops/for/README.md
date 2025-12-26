@@ -3,7 +3,7 @@
 A simple word guessing game developed to practice Python fundamentals and logic.
 
 ## 📌 Description
-The game selects a secret word and the user must guess it by entering one letter at a time.  
+The game randomly selects a secret word, and the user must guess it by entering one letter at a time.  
 Correct letters are revealed, incorrect ones remain hidden as `*`, and the game counts only valid attempts.
 
 ## 🧠 Concepts Practiced
