@@ -27,7 +27,7 @@ This project validates user input using a function, checks answers and calculate
    git clone https://github.com/EduardoKWG/python_from_zero_to_data
 
 2. Go to the project folder:
-   cd projects/python-quiz
+   cd projects/quiz-system
 
 3. Run the script:
    python quiz.py
