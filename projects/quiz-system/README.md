@@ -24,12 +24,15 @@ This project validates user input using a function, checks answers and calculate
 ## ▶ How to run
 
 1. Clone this repository:
-   git clone https://github.com/EduardoKWG/python_from_zero_to_data
 
-2. Go to the project folder:
-   cd projects/quiz-system
+   git clone https://github.com/EduardoKWG/python_from_zero_to_data.git
+
+2. Navigate to the quiz project folder:
+
+   cd python_from_zero_to_data/projects/quiz-system
 
 3. Run the script:
+
    python quiz.py
 
 ---
