@@ -42,10 +42,10 @@ This project validates user input using a function, checks answers and calculate
 ----------------------------------------
 Question: How much is 2 + 2?  
 Options:  
-0) 1  
-1) 2  
-2) 3  
-3) 4  
+0 )  1  
+1 )  2  
+2 )  3  
+3 )  4  
 Choose an option (0-3): 3  
 Congratulations! You got it right :)
 
