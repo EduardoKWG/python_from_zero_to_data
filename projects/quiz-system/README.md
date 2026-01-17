@@ -24,12 +24,15 @@ This project validates user input using a function, checks answers and calculate
 ## ▶ How to run
 
 1. Clone this repository:
-   git clone https://github.com/EduardoKWG/python_from_zero_to_data
 
-2. Go to the project folder:
-   cd projects/python-quiz
+   git clone https://github.com/EduardoKWG/python_from_zero_to_data.git
+
+2. Navigate to the quiz project folder:
+
+   cd python_from_zero_to_data/projects/quiz-system
 
 3. Run the script:
+
    python quiz.py
 
 ---
@@ -39,10 +42,10 @@ This project validates user input using a function, checks answers and calculate
 ----------------------------------------
 Question: How much is 2 + 2?  
 Options:  
-0) 1  
-1) 2  
-2) 3  
-3) 4  
+0 )  1  
+1 )  2  
+2 )  3  
+3 )  4  
 Choose an option (0-3): 3  
 Congratulations! You got it right :)
 
